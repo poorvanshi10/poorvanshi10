@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Poorvanshi 👋
 
-<!--
-**poorvanshi10/poorvanshi10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring AI Software Engineer  
+Full Stack Java Developer  
+Machine Learning Enthusiast  
 
-Here are some ideas to get you started:
+## Tech Stack
+Java | Python | SQL  
+Spring Boot | HTML | CSS | JavaScript  
+Scikit-Learn | Pandas | NumPy  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goals
+- Strengthen problem solving through DSA practice
+- Build AI-powered applications using Machine Learning
+- Develop Full Stack projects with Java and Spring Boot
+- Explore automation and AI agents
+- Prepare for top software engineering roles
+
+
+Code. Learn. Build. Repeat.
+
