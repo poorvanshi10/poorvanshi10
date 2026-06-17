@@ -1,7 +1,7 @@
 # Hi, I'm Poorvanshi 👋
 
 Aspiring AI Software Engineer  
-Full Stack Java Developer  
+Full Stack Developer  
 Machine Learning Enthusiast  
 
 ## Tech Stack
