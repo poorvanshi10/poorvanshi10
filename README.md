@@ -1,6 +1,6 @@
-# Hi, I'm Poorvanshi Lowanshi 👋
+# Hi, I'm Poorvanshi Lowanshi!
 
-### Software Engineer in Progress | Java • Python • AI/ML • Backend Development
+### Python • Java • AI/ML • Backend Development
 
 I am a Computer Science undergraduate focused on building **intelligent, scalable and practical software solutions**. My interests lie at the intersection of **software engineering, backend development and applied AI/ML**.
 
@@ -10,7 +10,7 @@ I enjoy transforming real-world problems into working products—from NLP-based 
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Science student at **Medi-Caps University**
+- 🎓 B.Tech Final-year Computer Science student
 - 💻 Preparing for **Software Development Engineer roles**
 - 🔬 Research exposure in **Mamba-based image restoration models**
 - 🌱 Selected Contributor at **GirlScript Summer of Code 2026**
