@@ -48,47 +48,6 @@ I enjoy transforming real-world problems into working products—from NLP-based 
 
 ---
 
-## 🚀 Featured Work
-
-### 🛡️ Cyberbullying Detection System
-
-An NLP-powered web application designed to identify harmful and abusive text.
-
-- Performs text preprocessing and classification
-- Uses machine-learning techniques for toxicity detection
-- Combines an ML pipeline with a user-friendly web interface
-- Designed with scope for real-time moderation and platform integration
-
-**Technologies:** Python, NLP, Machine Learning, HTML, CSS
-
----
-
-### 🖼️ Adaptive Image Restoration Using Mamba
-
-Research-oriented work exploring efficient image restoration using State Space Models.
-
-- Studied MambaIR and MambaIRv2 architectures
-- Explored restoration across super-resolution, denoising and compression artifacts
-- Investigated adaptive degradation-aware restoration
-- Focused on improving efficiency while preserving image structure and texture
-
-**Technologies:** Python, PyTorch, Computer Vision, Deep Learning, Mamba
-
----
-
-### ⚙️ AI Automation Workflows
-
-Building automation workflows that connect AI models with practical business processes.
-
-- Exploring intelligent lead management and customer communication
-- Designing workflow-based automation using n8n
-- Connecting APIs, databases and AI-powered services
-- Focusing on solutions useful for marketing and business operations
-
-**Technologies:** n8n, APIs, JavaScript, AI Automation
-
----
-
 ## 🏆 Highlights
 
 - 🌟 Selected Contributor — **GirlScript Summer of Code 2026**
